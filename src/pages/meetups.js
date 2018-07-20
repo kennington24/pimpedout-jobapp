@@ -5,7 +5,7 @@ import Breadcrumbs from '../components/breadcrumbs/breadcrumbs';
 class Meetupspage extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="Meetupapp">
         <Sidebar />
         <Breadcrumbs />
       </div>
