@@ -29,7 +29,7 @@
   background: url(https://media.giphy.com/media/9lhwtMxpRdza0/giphy.gif)
     no-repeat center center fixed;
   background-size: cover;
-  height: 120vmax;
+  height: 100vmax;
   margin-left: -1px;
   margin-right: -8px;
 }
