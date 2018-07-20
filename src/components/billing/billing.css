@@ -1,0 +1,35 @@
+.Billing {
+  margin-left: 210px;
+  margin-top: 65px;
+}
+
+.Paymentinfo {
+  width: 300px;
+  display: flex;
+  border: 3px solid #000;
+}
+
+.Paymentinfo input {
+  margin: 10px;
+  float: left;
+  width: 80%;
+}
+
+.Buynow {
+  position: fixed;
+  top: 400px;
+  left: 210px;
+  outline: thick ridge black;
+  padding: 20px 40px;
+  font-size: 20px;
+}
+
+.BillingApp {
+  margin-top: -65px;
+  background: url(https://media.giphy.com/media/9lhwtMxpRdza0/giphy.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+  height: 120vmax;
+  margin-left: -1px;
+  margin-right: -8px;
+}

@@ -1,0 +1,15 @@
+.Boxxy {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  background-color: white;
+  outline: thick ridge black;
+  padding: 20px 40px;
+  font-size: 20px;
+}
+
+html {
+  background: url(https://media.giphy.com/media/rqXfZwwa2K4TK/giphy.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+}

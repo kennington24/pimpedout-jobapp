@@ -1,0 +1,12 @@
+.smooth-dnd-container.horizontal {
+  white-space: nowrap;
+  margin-top: 65px;
+  margin-left: 200px;
+  z-index: 0;
+}
+
+.cBXKgf {
+  background: url(https://media.giphy.com/media/26FL4BaDc1lgVpg52/giphy.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+}
