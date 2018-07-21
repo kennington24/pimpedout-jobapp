@@ -24,12 +24,12 @@
   font-size: 20px;
 }
 
-.Contributionapp {
+.BillingApp {
   margin-top: -65px;
   background: url(https://media.giphy.com/media/9lhwtMxpRdza0/giphy.gif)
     no-repeat center center fixed;
   background-size: cover;
-  height: 100vmax;
+  height: 120vmax;
   margin-left: -1px;
   margin-right: -8px;
 }

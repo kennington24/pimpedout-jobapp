@@ -8,12 +8,6 @@
   font-size: 20px;
 }
 
-html {
-  background: url(https://media.giphy.com/media/rqXfZwwa2K4TK/giphy.gif)
-    no-repeat center center fixed;
-  background-size: cover;
-}
-
 .Contribution {
   display: block;
   margin: 65px 0 0 250px;
@@ -25,3 +19,13 @@ html {
 input {
   margin-right: 15px;
 }
+/* 
+.Contributionapp {
+  margin-top: -65px;
+  background: url(https://media.giphy.com/media/9lhwtMxpRdza0/giphy.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+  height: 120vmax;
+  margin-left: -1px;
+  margin-right: -8px;
+} */
